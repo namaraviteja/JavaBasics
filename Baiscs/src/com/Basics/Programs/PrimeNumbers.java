@@ -4,7 +4,7 @@ public class PrimeNumbers {
 	public static void main(String args[]) {
 		
 		PrimeNumber p = new PrimeNumber();
-		p.primeList(19);
+		p.primeList(25);
 	}
 
 }
